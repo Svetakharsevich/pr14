@@ -1,0 +1,14 @@
+D:\ПТПМ\pr14_form\bin\Debug\pr14_form.exe.config
+D:\ПТПМ\pr14_form\bin\Debug\pr14_form.exe
+D:\ПТПМ\pr14_form\bin\Debug\pr14_form.pdb
+D:\ПТПМ\pr14_form\bin\Debug\библиотека14pr.dll
+D:\ПТПМ\pr14_form\bin\Debug\библиотека14pr.pdb
+D:\ПТПМ\pr14_form\obj\Debug\pr14_form.csproj.AssemblyReference.cache
+D:\ПТПМ\pr14_form\obj\Debug\pr14_form.csproj.SuggestedBindingRedirects.cache
+D:\ПТПМ\pr14_form\obj\Debug\pr14_form.Form1.resources
+D:\ПТПМ\pr14_form\obj\Debug\pr14_form.Properties.Resources.resources
+D:\ПТПМ\pr14_form\obj\Debug\pr14_form.csproj.GenerateResource.cache
+D:\ПТПМ\pr14_form\obj\Debug\pr14_form.csproj.CoreCompileInputs.cache
+D:\ПТПМ\pr14_form\obj\Debug\pr14_form.csproj.CopyComplete
+D:\ПТПМ\pr14_form\obj\Debug\pr14_form.exe
+D:\ПТПМ\pr14_form\obj\Debug\pr14_form.pdb

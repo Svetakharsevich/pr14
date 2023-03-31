@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "библиотека14pr", "библиотека14pr.csproj", "{E91D42C7-92C5-43E8-8274-AC2ECA8D2923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr14", "..\pr14\pr14.csproj", "{FFCB049F-FD78-48AB-B2F5-287C7FBDE3E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr14_form", "..\pr14_form\pr14_form.csproj", "{76B735AB-2C22-44AC-9692-072E6BB085B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E91D42C7-92C5-43E8-8274-AC2ECA8D2923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91D42C7-92C5-43E8-8274-AC2ECA8D2923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91D42C7-92C5-43E8-8274-AC2ECA8D2923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91D42C7-92C5-43E8-8274-AC2ECA8D2923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFCB049F-FD78-48AB-B2F5-287C7FBDE3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCB049F-FD78-48AB-B2F5-287C7FBDE3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCB049F-FD78-48AB-B2F5-287C7FBDE3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCB049F-FD78-48AB-B2F5-287C7FBDE3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B735AB-2C22-44AC-9692-072E6BB085B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B735AB-2C22-44AC-9692-072E6BB085B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B735AB-2C22-44AC-9692-072E6BB085B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B735AB-2C22-44AC-9692-072E6BB085B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCF7D526-C111-4221-A6B9-54BACD5E9C87}
+	EndGlobalSection
+EndGlobal

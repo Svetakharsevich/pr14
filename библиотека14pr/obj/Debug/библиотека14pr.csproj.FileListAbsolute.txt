@@ -1,0 +1,12 @@
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\библиотека14pr\bin\Debug\библиотека14pr.dll
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\библиотека14pr\bin\Debug\библиотека14pr.pdb
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\библиотека14pr\obj\Debug\библиотека14pr.csproj.AssemblyReference.cache
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\библиотека14pr\obj\Debug\библиотека14pr.csproj.CoreCompileInputs.cache
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\библиотека14pr\obj\Debug\библиотека14pr.dll
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\библиотека14pr\obj\Debug\библиотека14pr.pdb
+D:\ПТПМ\библиотека14pr\bin\Debug\библиотека14pr.dll
+D:\ПТПМ\библиотека14pr\bin\Debug\библиотека14pr.pdb
+D:\ПТПМ\библиотека14pr\obj\Debug\библиотека14pr.csproj.AssemblyReference.cache
+D:\ПТПМ\библиотека14pr\obj\Debug\библиотека14pr.csproj.CoreCompileInputs.cache
+D:\ПТПМ\библиотека14pr\obj\Debug\библиотека14pr.dll
+D:\ПТПМ\библиотека14pr\obj\Debug\библиотека14pr.pdb
